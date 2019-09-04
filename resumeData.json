@@ -1,0 +1,186 @@
+{
+  "main": {
+    "name": "Moctar Diallo",
+    "occupation": "Deep Learning Engineer",
+    "description": "I build Deep Artificial Neural Networks well adapted to processing Big Data Images and Videos and make sense of it, or Computer Vision. Applications are Crop and Soil Monitoring in Agriculture, Self-Driving Cars in the Automobile industry, Medical Image Diagnosis in Healhcare, Document Authentication and OCR(Object Character Recognition) in Administration and Banking, etc  ",
+    "image": "profilepic.jpg",
+    "bio": "I am a Pythonist, Deep Learning Engineer and Computer Vision Specialist. My gang of four: Python, Kivy, Tensorflow, OpenCV",
+    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "moctarjallo@gmail.com",
+    "phone": "+221 77 857 75 00",
+    "address": {
+      "street": "Rue 10 x 27",
+      "city": "Dakar",
+      "state": "Senegal",
+      "zip": "10500"
+    },
+    "website": "http://moctardiallo.github.io",
+    "resumedownload": "http://moctardiallo.github.io",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "http://web.facebook.com/m0ctarjall0",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "http://twitter.com",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "google-plus",
+        "url": "http://googleplus.com/tbakerx",
+        "className": "fa fa-google-plus"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/amadou-moctar-diallo-865b31171",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "http://instagram.com/tbaker_x",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/moctardiallo",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "skype",
+        "url": "http://skype.com",
+        "className": "fa fa-skype"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "A brief listing of some of my skills..",
+    "education": [
+      {
+        "school": "MIT OpenCourseWare",
+        "degree": "Masters Computer Science",
+        "graduated": "June 2017",
+        "description": "Here i learned general engineering principles, the software engineering discipline, and programming languages like Java, Python and Lisp. Plus a thorough understanding of Algorithms design and implementations along with different comparisons of different paradigms of computations. A more pleased course i also followed is the Artificial Intelligence(6.034) course by Professor Patrick Winston "
+      },
+      {
+        "school": "Gaston Berger University",
+        "degree": "Masters Computer Science",
+        "graduated": "July 2018",
+        "description": "I learned C here and forgot it. I also learned C++ and forgot it. Then i learned CSS and also.. forgot it. I remeber using some terminal commands in linux, and... i forgot the rest. Oh yes, some SQL too! But i forgot it, and had to relearn it on youtube(or somewhere else.. i forgot where). But campus was cool!!"
+      }
+    ],
+    "work": [
+      {
+        "company": "Gaston Berger University",
+        "title": "Deep Learning Engineer",
+        "years": "July 2018 - Present",
+        "description": "Contribute to research for building an intrusion detection system in systems networks using available trafic data and deep neural networks"
+      },
+      {
+        "company": "Ecole Nationale Superieure d'Agriculture(ENSA)",
+        "title": "Programming Tutor/Professor",
+        "years": "February 2019",
+        "description": "Give a course Introduction to Programming and Algorithms in Python to 2nd year students in agricultural engineering"
+      },
+      {
+        "company": "Hopital Regional de Saint-Louis",
+        "title": "Computer Vision Engineer",
+        "years": "June 2019 - Present",
+        "description": "Build a software program that can recognize character digits from a monitor."
+      },
+      {
+        "company": "Sapienscube/Agrolens",
+        "title": "Computer Vision Engineer",
+        "years": "Present",
+        "description": "Build a mobile app that watches crop fields through the camera and tell farmers what to do in case of deficiencies like presence of pests or absence of nutritions, etc (in the process..)"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Python",
+        "level": "90%"
+      },
+      {
+        "name": "TensorFlow/Keras",
+        "level": "80%"
+      },
+      {
+        "name": "Pandas/Numpy",
+        "level": "70%"
+      },
+      {
+        "name": "OpenCV",
+        "level": "70%"
+      },
+      {
+        "name": "XP/TDD/Git/Software Engineering",
+        "level": "90%"
+      },
+      {
+        "name": "ReactJS/Ract Native",
+        "level": "60%"
+      },
+      {
+        "name": "Flask/Django",
+        "level": "60%"
+      },
+      {
+        "name": "Kivy",
+        "level": "70%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Research on Intrusion Detection System (part: Web Interface)",
+        "category": "Systems Security Research using AI",
+        "image": "canadian-wanderlust.jpg",
+        "url": "https://sapienscube.github.io/intrusion-detection-system-web-client"
+      },
+      {
+        "title": "Sapienscube",
+        "category": "An AI/DeepLearning company i have started",
+        "image": "fury-fighting-gear.jpg",
+        "url": "https://sapienscube.github.io"
+      },
+      {
+        "title": "Seneweb Clone",
+        "category": "This is a local news website i made while learning reactjs",
+        "image": "resume-website.jpg",
+        "url": "https://github.com/moctardiallo/seneweb"
+      },
+      {
+        "title": "Toxic Comment Classification Challenge",
+        "category": "This is an online challenge on classifying online comments as toxic or not and the level of toxicity",
+        "image": "smirkspace.jpg",
+        "url": "https://github.com/moctardiallo/jigsaw-tcc-challenge"
+      },
+      {
+        "title": "Object Character Recognition software program",
+        "category": "It is about extracting digits from an image using computer vision",
+        "image": "smirkspace.jpg",
+        "url": "https://github.com/sapienscube/orsocr"
+      },
+      {
+        "title": "My Github Projects",
+        "category": "Withoug much talk, checkout my github where i host my projects!",
+        "image": "original-thai-food.jpg",
+        "url": "https://github.com/moctardiallo"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
